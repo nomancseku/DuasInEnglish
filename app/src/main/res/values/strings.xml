@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dua\'s In English</string>
+
+    <string name="dummy_button">OK</string>
+    <string name="dummy_content">DUA IN\nENGLISH</string>
+    <string name="textview">Allah! I ask of You integrity and soundness in my religion, my life, my family, and my possessions.</string>
+    <string name="next">Next</string>
+</resources>
